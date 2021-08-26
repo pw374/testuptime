@@ -7,8 +7,6 @@ sites:
     url: http://lamini.ca
   - name: Lamini
     url: https://lamini.ca
-  - name: Canada.ca
-    url: https://canada.ca
   - name: Kosilum
     url: https://kosilum.com
     
