@@ -4,19 +4,19 @@
     "url": "http://lamini.ca",
     "icon": "https://favicons.githubusercontent.com/lamini.ca",
     "slug": "lamini",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 203,
-    "timeWeek": 222,
-    "timeMonth": 220,
-    "timeYear": 214,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "96.14%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.92%",
+    "time": 215,
+    "timeDay": 256,
+    "timeWeek": 231,
+    "timeMonth": 222,
+    "timeYear": 215,
     "dailyMinutesDown": {
-      "2021-10-13": 1
+      "2021-10-13": 56
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://lamini.ca",
     "icon": "https://favicons.githubusercontent.com/lamini.ca",
     "slug": "lamini",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 203,
-    "timeWeek": 222,
-    "timeMonth": 220,
-    "timeYear": 214,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "96.14%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.92%",
+    "time": 215,
+    "timeDay": 256,
+    "timeWeek": 231,
+    "timeMonth": 222,
+    "timeYear": 215,
     "dailyMinutesDown": {
-      "2021-10-13": 1
+      "2021-10-13": 56
     }
   },
   {
