@@ -4,11 +4,11 @@
     "url": "http://lamini.ca",
     "icon": "https://favicons.githubusercontent.com/lamini.ca",
     "slug": "lamini",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "95.92%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.91%",
     "time": 332,
     "timeDay": 5784,
@@ -16,7 +16,7 @@
     "timeMonth": 560,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2021-11-22": 59,
+      "2021-11-22": 60,
       "2021-10-13": 56
     }
   },
@@ -25,11 +25,11 @@
     "url": "https://lamini.ca",
     "icon": "https://favicons.githubusercontent.com/lamini.ca",
     "slug": "lamini",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "95.92%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.91%",
     "time": 332,
     "timeDay": 5784,
@@ -37,7 +37,7 @@
     "timeMonth": 560,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2021-11-22": 59,
+      "2021-11-22": 60,
       "2021-10-13": 56
     }
   },
